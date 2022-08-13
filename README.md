@@ -1,6 +1,6 @@
 # <h2 align="centre"><i><b>💖TECHNO MINDZ BOT-1💝</i></b></h2>
 
-## COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS
+### <b>COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS With Pm Feature and 4GB Files Supporting Working One</b>
 
 <p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
 
@@ -9,15 +9,18 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
 </h1>
+
 <a href="https://www.youtube.com/c/TechnoMindz">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
+  <img src="https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube" width="170">
+<a href="https://youtu.be/CWObOvzp09g">
+  <img src="https://img.shields.io/badge/MongoDB-red?logo=youtube" width="150">
 
-## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
-## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/technomindzchat)
-
+<a href="https://youtu.be/mWWxKxNP8ls">
+  <img src="https://img.shields.io/badge/Tutorial-red?logo=youtube" width="140">
 
 # DEPLOY
 
+## Refer Image Before Deploying 
 ## ⚠️Fork The Repo And Deploy Or Unwanted Problems May Occur...
 ## After Forking Before Deplying Change The link of your github HERE Below Shown In The Picture 👇👇👇
 <p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/7dfbf86b1da43cc40208f.jpg" width="800"></a></p>
@@ -30,7 +33,7 @@
 </a>
 </p>
 </details>
-  
+
 <details><summary>Deploy From Bot</summary>
 <p>
 <br>
@@ -40,25 +43,25 @@
 </p>
 </details>
 
-### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
+### Note
+ - If You Need To Deploy YOur Own Bot 
+ - Contact [<b>@TechnoMindzYt</b>](https://t.me/technomindzyt) Paid One !
 
-<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
-<a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
 
-  
 ### Required Variables
+
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
+* `API_ID`: Get this value from [@MT_MyTelegramOrg_Bot](https://t.me/MT_MyTelegramOrg_Bot)
+* `API_HASH`: Get this value from [@MT_MyTelegramOrg_Bot](https://t.me/MT_MyTelegramOrg_Bot)
+* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space (Database Channel)
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [Video](https://youtu.be/CWObOvzp09g)
 * `DATABASE_NAME`: Name of the database in MongoDb Cluster0
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-  
+
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-  
+
 ## Commands
 ```
 • /logs - to get the rescent errors
@@ -83,7 +86,7 @@
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all Techno Mindz users
 ```
 ## CUSTOM FILE CAPTION
 ```
@@ -91,12 +94,20 @@
 MADE BY @TmMainChannel
   
 ```
+
+
+### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
+
+<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
+
 ## CREATED BY
- 
+
 * [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Thanks to 
 
+ - [EvaMaria](https://github.com/EvamariaTG/EvaMaria)
  - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
  - Thanks To All Of My Subscribers😊
